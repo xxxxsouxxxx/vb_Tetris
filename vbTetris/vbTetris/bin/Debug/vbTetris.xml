@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+vbTetris
+</name>
+</assembly>
+<members>
+<member name="T:vbTetris.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:vbTetris.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:vbTetris.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:vbTetris.Form1.OnPut(System.Int32,System.Int32,System.Byte,System.Int32,System.Boolean,System.Boolean)">
+ <summary>
+ 移動できるかどうか、置けるかどうかを検証する
+ </summary>
+ <param name="x">X座標</param>
+ <param name="y">Y座標</param>
+ <param name="t">ミノの形状（番号）</param>
+ <param name="a">角度</param>
+ <param name="s">設置するかどうか</param>
+ <param name="test"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

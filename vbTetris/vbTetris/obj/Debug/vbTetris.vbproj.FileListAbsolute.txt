@@ -1,0 +1,12 @@
+D:\vbTetris\vbTetris\bin\Debug\vbTetris.exe.config
+D:\vbTetris\vbTetris\bin\Debug\vbTetris.exe
+D:\vbTetris\vbTetris\bin\Debug\vbTetris.pdb
+D:\vbTetris\vbTetris\bin\Debug\vbTetris.xml
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.vbprojAssemblyReference.cache
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.Form1.resources
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.Resources.resources
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.vbproj.GenerateResource.cache
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.vbproj.CoreCompileInputs.cache
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.exe
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.xml
+D:\vbTetris\vbTetris\obj\Debug\vbTetris.pdb
